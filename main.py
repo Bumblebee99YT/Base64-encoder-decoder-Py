@@ -1,3 +1,8 @@
+'''
+Made by Discord user Bumblebee99#8157
+2/6/2021
+'''
+
 # Import Things
 import base64
 
