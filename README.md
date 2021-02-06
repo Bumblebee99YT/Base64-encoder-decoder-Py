@@ -8,7 +8,6 @@
 2. Base64 module*
 ------
 # Made in [python](https://www.python.org/) as a fun project
-======
 # Contact
 ------
 ## Discord - Bumblebee99#8157
