@@ -9,5 +9,4 @@
 ------
 # Made in [python](https://www.python.org/) as a fun project
 # Contact
-------
 ## Discord - Bumblebee99#8157
