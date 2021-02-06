@@ -7,8 +7,8 @@
 1. Python 3
 2. Base64 module*
 ------
-..*Made in [python](https://www.python.org/)
-..*Made as a fun project
+..* Made in [python](https://www.python.org/)
+..* Made as a fun project
 ======
 # Contact
 ------
