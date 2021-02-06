@@ -4,7 +4,10 @@
 ## This can **encode** and **decode** to or from base 64. Try it out for your self
 ### Requirements
 1. Python 3
-2. Base64 module*
+2. Base64 module
+```python
+import base64
+```
 ------
 # Made in [python](https://www.python.org/) as a fun project
 # Contact
