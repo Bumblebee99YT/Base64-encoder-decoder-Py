@@ -1,6 +1,6 @@
 # Base64-encoder-decoder-Py
 ## B46EDP or Base64-encoder-decoder-Py is a python program made on **2/6/2021**
-======
+------
 # About
 ## This can **encode** and **decode** to or from base 64. Try it out for your self
 ### Requirements
